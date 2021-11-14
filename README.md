@@ -1,4 +1,4 @@
-### Exploratory Data Analysis
+### Exploratory Data Analysis - Credit Risk Analytics
 This EDA aims to identify patterns which indicate if a client has difficulty paying their installments which may be used for taking relevant actions.
 
 Business Understanding:
