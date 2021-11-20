@@ -22,3 +22,7 @@ Approved: The Company has approved loan Application
 Cancelled: The client cancelled the application sometime during approval. Either the client changed her/his mind about the loan or in some cases due to a higher risk of the client he received worse pricing which he did not want.
 Refused: The company had rejected the loan (because the client does not meet their requirements etc.).
 Unused offer: Loan has been cancelled by the client but on different stages of the process.
+
+
+Download the dataset from the following URL:
+https://drive.google.com/file/d/1PtFZf8jeVVZ0iydrj64sg9aqs3XHxQij/view?usp=sharing
